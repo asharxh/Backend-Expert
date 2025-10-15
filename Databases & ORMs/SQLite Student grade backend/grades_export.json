@@ -1,0 +1,47 @@
+[
+    {
+        "student": "ashar",
+        "course": "Mathematics",
+        "grade": 78.0
+    },
+    {
+        "student": "ashar",
+        "course": "Physics",
+        "grade": 65.0
+    },
+    {
+        "student": "ashar",
+        "course": "CS",
+        "grade": 87.0
+    },
+    {
+        "student": "ashar",
+        "course": "JAVA",
+        "grade": 97.0
+    },
+    {
+        "student": "ashar",
+        "course": "Python",
+        "grade": 98.0
+    },
+    {
+        "student": "Alice",
+        "course": "Mathematics",
+        "grade": 90.0
+    },
+    {
+        "student": "Alice",
+        "course": "Physics",
+        "grade": 85.0
+    },
+    {
+        "student": "Bob",
+        "course": "Mathematics",
+        "grade": 78.0
+    },
+    {
+        "student": "Bob",
+        "course": "Physics",
+        "grade": 82.0
+    }
+]
