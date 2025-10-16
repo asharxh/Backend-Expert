@@ -1,0 +1,11 @@
+2025-10-16 11:00:24,620 [INFO] Process Manager API running at http://localhost:8080
+2025-10-16 11:03:53,557 [INFO] Process Manager API running at http://localhost:8080
+2025-10-16 11:04:26,737 [INFO] Process Manager API running at http://localhost:8080
+2025-10-16 11:04:36,602 [INFO] Server stopped manually
+2025-10-16 11:10:08,535 [INFO] Started process 16900: notepad.exe
+2025-10-16 11:11:16,531 [INFO] Started process 4640: notepad.exe
+2025-10-16 11:12:30,040 [INFO] Stopped process 4640
+2025-10-16 11:14:39,626 [INFO] Process Manager API running at http://localhost:8080
+2025-10-16 11:15:22,648 [INFO] Started process 5308: notepad.exe
+2025-10-16 11:15:49,209 [INFO] Started process 3928: chatgpt.exe
+2025-10-16 11:15:56,007 [INFO] Started process 13720: chatgpt.exe

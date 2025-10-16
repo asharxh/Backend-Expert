@@ -1,0 +1,28 @@
+{
+    "16900": {
+        "cmd": "notepad.exe",
+        "start_time": "2025-10-16 11:10:08",
+        "status": "running"
+    },
+    "4640": {
+        "cmd": "notepad.exe",
+        "start_time": "2025-10-16 11:11:16",
+        "status": "stopped",
+        "stop_time": "2025-10-16 11:12:30"
+    },
+    "5308": {
+        "cmd": "notepad.exe",
+        "start_time": "2025-10-16 11:15:22",
+        "status": "running"
+    },
+    "3928": {
+        "cmd": "chatgpt.exe",
+        "start_time": "2025-10-16 11:15:49",
+        "status": "running"
+    },
+    "13720": {
+        "cmd": "chatgpt.exe",
+        "start_time": "2025-10-16 11:15:56",
+        "status": "running"
+    }
+}
