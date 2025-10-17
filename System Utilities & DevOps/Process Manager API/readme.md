@@ -1,4 +1,4 @@
-You often need to programmatically manage services and processes, like:
+we often need to programmatically manage services and processes, like:
 Starting multiple background scripts automatically.
 Stopping them safely.
 Monitoring which scripts are running.
@@ -12,4 +12,5 @@ Web interface.
 Use Commads : 
 python cli_manager.py start "notepad.exe"
 python cli_manager.py list
+
 python cli_manager.py stop <pid>
